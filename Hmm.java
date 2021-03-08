@@ -1,1 +1,3 @@
-Hmm
+public class Hmm extends JavaPlugin {
+}
+
