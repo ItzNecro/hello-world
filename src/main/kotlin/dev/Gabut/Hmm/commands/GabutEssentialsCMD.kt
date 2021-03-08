@@ -1,12 +1,12 @@
 package dev.gabut.hmm.commands
 
 import com.google.common.base.Joiner
-import dev.Gabut.Hmm.lyrams.LuckyEssentials
-import dev.luckynetwork.id.lyrams.commands.features.pluginmanager.*
-import dev.luckynetwork.id.lyrams.extensions.checkPermission
-import dev.luckynetwork.id.lyrams.objects.Config
-import dev.luckynetwork.id.lyrams.utils.BetterCommand
-import dev.luckynetwork.id.lyrams.utils.SubCommand
+import dev.Gabut.Hmm.LuckyEssentials
+import dev.Gabut.Hmm.commands.features.pluginmanager.*
+import dev.Gabut.Hmm.extensions.checkPermission
+import dev.Gabut.Hmm.objects.Config
+import dev.Gabut.Hmm.utils.BetterCommand
+import dev.Gabut.Hmm.utils.SubCommand
 import org.bukkit.command.CommandSender
 import java.util.concurrent.CompletableFuture
 
