@@ -1,0 +1,5 @@
+name: @name@
+version: @version@
+author: Gabut
+main: @mainClass@
+softdepend: [ MYSlots, LuckyInjector, KtLoader ]
